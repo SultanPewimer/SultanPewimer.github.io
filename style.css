@@ -59,6 +59,9 @@ dialog{width:min(1100px,calc(100% - 32px));padding:30px;scrollbar-gutter:stable}
 .tools-image{width:270px}
 .tools-skill h3{flex:1;min-width:0;line-height:1.4;white-space:normal}
 .tools-skill .skill-number,.tools-skill .skill-kind{flex-shrink:0}
+.skills .godot-skill .skill-copy{flex:1;min-width:0}
+.skills .godot-skill h3{line-height:1.4}
+.skills .skill-experience{margin-top:8px;color:var(--muted);font-size:13px;line-height:1.8}
 .phone-contact{display:flex;flex-direction:column;align-items:flex-end;gap:8px;margin-top:16px}
 .contact-label{font-size:11px;color:var(--muted)}
 .phone-link{display:inline-flex;align-items:center;gap:14px;min-height:44px}
